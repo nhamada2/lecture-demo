@@ -1,1 +1,1 @@
-# lecture-demo for CS 317
+# lecture-demo
